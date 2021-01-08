@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Rr210/Rr210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
-<p>- 👨‍💻 目前还在上学(大三学生) </p>
-<p>- 👨‍🎓 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
-<p>- 💬 🎓 你必须非常努力，才能看起来毫不费力。</p>
-<p>- ⚡ 🎓 已经接触过多种语言Java，Python，SQL，PHP（尚未掌握，加强学习中💪）  </p>
+<p>- 👨‍🎓 目前还在上学(大三学生) </p>
+<p>- 🕵️‍♂️ 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
+<p>- 💬 你必须非常努力，才能看起来毫不费力。</p>
+<p>- ⚡ 已经接触过多种语言Java，Python，SQL，PHP（尚未掌握，加强学习中💪）  </p>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
