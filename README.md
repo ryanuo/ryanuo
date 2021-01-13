@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
+<h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>! <img src="https://cdn.mr90.top/imgsm/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
 <p>- 🕵️‍♂️ 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
 <p>- 💬 你必须非常努力，才能看起来毫不费力。</p>
