@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>- 💬 你必须非常努力，才能看起来毫不费力。</p>
 <p>- ⚡ 已经接触过多种语言Java，Python，SQL，PHP（尚未掌握，加强学习中💪）  </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" height="180" width="400" style="display: inline-block;src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&hide_border=false&icon_color=586069&title_color=a0a9af">
 
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="left"  height="180" width="400" style="display: inline-block; src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&show_icons=true&hide_border=false&icon_color=586069&title_color=a0a9af">
 
