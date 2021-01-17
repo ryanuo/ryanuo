@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" />
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>!</h2>
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
 <p>- 🕵️‍♂️ 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
 <a href="https://rbozo.gitee.io">
-    <img align="left" height="200" width="450" style="display: inline-block; "
+    <img align="left" height="200" width="420" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true" />
     <img align="right" height="180" width="400" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&layout=compact" />
