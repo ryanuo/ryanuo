@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
-
+<img align="left" height="180" width="400" style="display: inline-block; "src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>!</h2>
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
