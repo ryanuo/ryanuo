@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
 
-<img align="right" height="180" width="400" style="display: inline-block;src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&icon_color=586069&title_color=a0a9af">
-<img align="left"  height="180" width="400" style="display: inline-block; src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&show_icons=true&icon_color=586069&title_color=a0a9af">
+<img align="right" height="180" width="400" style="display: inline-block;"src="https://github-readme-stats.vercel.app/api?username=Rr210&show_icons=true&icon_color=586069&title_color=a0a9af">
+<img align="left"  height="180" width="400" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rr210&show_icons=true&icon_color=586069&title_color=a0a9af">
 
 <!-- &hide_border=true -->
