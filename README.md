@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://rbozo.gitee.io">
-<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" />-->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" />
 </a>
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>!</h2>
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
