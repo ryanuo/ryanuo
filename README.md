@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=ffffff)](https://www.gitee.com)
 [![](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
