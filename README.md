@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/pressroom)
 [![](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)](https://www.mysql.com/about/legal/logos.html)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
