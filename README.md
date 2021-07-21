@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://rbozo.gitee.io">
+<!-- <a href="https://rbozo.gitee.io">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480" />
-</a>
+<!-- </a> -->
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>!</h2>
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
 <p>- 🕵️‍♂️ 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
