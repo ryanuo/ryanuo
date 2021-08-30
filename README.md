@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>- 👨‍🎓 目前还在上学(大三学生) </p>
 <p>- 🕵️‍♂️ 喜欢计算机，一天不不扣点码心里不得劲🤗 </p>
 <p>- 💬 你必须非常努力，才能看起来毫不费力。</p>
-<p>- ⚡ 已经接触过多种语言Java，Python，SQL，PHP（尚未掌握，加强学习中💪）  </p>
+<p>- ⚡ 已经接触过多种语言（尚未掌握，加强学习中💪）  </p>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
