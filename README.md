@@ -31,26 +31,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-<p>- 💬 你必须非常努力，才能看起来毫不费力。</p>
-<p>- ⚡ 已经接触过多种语言（尚未掌握，加强学习中💪）  </p>
-
-
-
-[![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://wiki.centos.org/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
+- 💬 To be mastered:
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/pressroom)
 [![](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)](https://www.mysql.com/about/legal/logos.html)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com)
-[![](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=ffffff)](https://www.adobe.com/)
-<!--  -->
-<!-- [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/) -->
-<!-- [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.com/) -->
-<!-- [![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/) -->
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
 <!--
 <a href="https://rbozo.gitee.io">
     <img align="left" height="200" width="420" style="display: inline-block; "
