@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <!-- </a> -->
 <h2>  Hey 👋, I'm <a href="https://mr90.top" target="_blank">Harry</a>!</h2>
 
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
-
 - ⌨️I use daily: 
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![](https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=ffffff)](https://www.gitee.com)  [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)  [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
@@ -38,6 +35,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.oracle.com)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
+[![Open HomePage](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://mr90.top)
+![ViewCount](https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove)
 
 <!--
 <a href="https://rbozo.gitee.io">
