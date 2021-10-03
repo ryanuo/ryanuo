@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 
 
 <h2></h2>
+
 - 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
