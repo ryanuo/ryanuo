@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         11 hrs 27 mins  ████████████████████░░░░░   80.35 % 
-JavaScript   2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-YAML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+HTML         16 hrs 12 mins  █████████████████████▒░░░   85.15 % 
+JavaScript   2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
