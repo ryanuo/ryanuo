@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 9 mins    ██████████████████▒░░░░░░   73.42 % 
-JavaScript   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-LESS         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Prolog       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Vue.js       8 hrs 12 mins   ██████████████████████▒░░   88.91 % 
+Prolog       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+LESS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 
