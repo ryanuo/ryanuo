@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 40 mins    ███████████████████████░░   92.30 % 
-JSON         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
