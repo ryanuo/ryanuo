@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js   4 hrs 37 mins   ███████████████████████▓░   94.85 % 
-LESS     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Vue.js   46 mins         ███████████████████████░░   91.85 % 
+LESS     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 ```
 <!--END_SECTION:waka-->
 
