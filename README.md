@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js   46 mins         ███████████████████████░░   91.85 % 
-LESS     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Markdown     14 mins         ██████████████████▓░░░░░░   75.17 % 
+JavaScript   4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.11 % 
 ```
 <!--END_SECTION:waka-->
 
