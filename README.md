@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       10 hrs 26 mins  ████████████████████▓░░░░   82.28 % 
-LESS         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-TypeScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Vue.js       7 hrs 47 mins   █████████████████████▓░░░   86.76 % 
+TypeScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+LESS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
