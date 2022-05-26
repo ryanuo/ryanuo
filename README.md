@@ -52,10 +52,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 mins          ███████████████████████▓░   94.36 %
-Vue.js       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   0 secs          █████████████████░░░░░░░░   67.71 %
+Vue.js       0 secs          ███████░░░░░░░░░░░░░░░░░░   27.35 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
