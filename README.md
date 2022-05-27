@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████░░░░░░░░   67.71 %
-Vue.js       0 secs          ███████░░░░░░░░░░░░░░░░░░   27.35 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JSON   2 mins          ███████████████████▒░░░░░   77.41 %
+YAML   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
 ```
 
 <!--END_SECTION:waka-->
