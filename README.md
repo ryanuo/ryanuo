@@ -52,12 +52,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 36 mins  ████████████████████▒░░░░   81.48 %
-SCSS         2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-LESS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   1 hr 52 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
