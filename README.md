@@ -52,7 +52,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         2 hrs 9 mins    ██████████████░░░░░░░░░░░   56.41 %
+JSON         45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Markdown     28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+LESS         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Batchfile    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
