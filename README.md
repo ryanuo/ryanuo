@@ -9,8 +9,7 @@
   <br/>
   <br/>
   <div align="center">
-    <a href="https://github.com/rr210/rr210">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rr210&show_icons=true" />
+     <img align="center" style="width:400px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rr210&show_icons=true" />
   </a>
   </div>
 </p>
