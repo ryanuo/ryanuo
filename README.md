@@ -8,8 +8,7 @@
   </samp>
   <br/>
   <br/>
-  <div align="center">
-     <img align="center" style="width:400px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rr210&show_icons=true" />
-  </a>
-  </div>
+
+   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rr210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr210&layout=compact&theme=buefy&hide_border=true" /> |
+| :-: | :-: |
 </p>
