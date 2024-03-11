@@ -11,3 +11,5 @@
     <a href="https://www.mr90.top/navs">navs</a>
   </samp>
 </p>
+
+<p align="right"><img src="https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove"/></p>
