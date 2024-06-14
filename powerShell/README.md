@@ -3,7 +3,8 @@ These are PowerShell scripts designed to simplify operations for both Windows an
 
 ## Windows
 
-path = C:\Users\your-name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+PowerShell_profile: path = `C:\Users\your-name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+bashrc: path = `C:\Users\your-name\.bashrc`
 
 ### Cloning a GitHub Repository
 
