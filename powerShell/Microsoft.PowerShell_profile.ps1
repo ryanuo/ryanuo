@@ -2,6 +2,7 @@
 # GitHub CLI operations
 # Function to clone a repository from GitHub to the local machine
 $github_path="C:\sys\project\github" # Path where GitHub repositories are stored locally
+$gh_username="ryanuo"
 
 function cl {
     param(
@@ -19,7 +20,7 @@ function clm {
     )
     cd $github_path
     # Clone the repository using GitHub CLI specifying the username
-    gh repo clone "ryanuo/$repoName"
+    gh repo clone "$gh_username/$repoName"
     
     # Move the cloned repository to a new folder with the specified name
     mv $repoName $destinationFolder
@@ -29,7 +30,7 @@ function clm {
     Remove-Item .git -Recurse -Force -ErrorAction SilentlyContinue # Remove .git folder silently if it exists
     git init # Initialize a new Git repository
     git checkout -b main # Create a new branch 'main'
-    git remote add origin "https://github.com/ryanuo/$destinationFolder.git" # Set the remote origin to the renamed repository
+    git remote add origin "https://github.com/$gh_username/$destinationFolder.git" # Set the remote origin to the renamed repository
 }
 
 # pnpm cli
