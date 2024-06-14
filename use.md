@@ -1,5 +1,5 @@
 # my use
-- contain window setting or mac setting,about my use usually.
+contain window setting or mac setting,about my use usually.
 
 [my powershell script](./powershell/README.md)<br>
 [my vscode setting](./vscode/README.md)<br>
