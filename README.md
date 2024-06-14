@@ -5,7 +5,7 @@
     <a href="https://www.ryanuo.cc/projects">projects</a> .
     <a href="https://www.ryanuo.cc/demos">demos</a> .
     <a href="https://www.ryanuo.cc/navs">navs</a> .
-    <a href="https://github.com/ryanuo/ryanuo/blob/master/use.md">use</a> .
+    <a href="https://github.com/ryanuo/ryanuo/blob/master/use.md">use</a>
   </samp>
 </p>
 
