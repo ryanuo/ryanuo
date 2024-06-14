@@ -5,7 +5,10 @@ These are PowerShell scripts designed to simplify operations for both Windows an
 
 PowerShell_profile: path = `C:\Users\your-name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 bashrc: path = `C:\Users\your-name\.bashrc`
+`zshrc`: path = `C:\Users\your-name\.zshrc`
 
+It is recommended to use zsh.
+Windows use zsh. [zsh-windows](https://ryanuo.cc/posts/zsh-windows)
 ### Cloning a GitHub Repository
 
 #### Function: `cl`
