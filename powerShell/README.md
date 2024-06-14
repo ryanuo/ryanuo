@@ -1,41 +1,44 @@
-# PowerShell Scripts for GitHub Automation and pnpm Commands
+# PowerShell Scripts
+These are PowerShell scripts designed to simplify operations for both Windows and macOS.
 
-This set of PowerShell scripts facilitates automation of GitHub operations and execution of pnpm commands, optimized for the Windows environment.
+## Windows
 
-## Cloning a GitHub Repository
+path = C:\Users\your-name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 
-### Function: `cl`
+### Cloning a GitHub Repository
+
+#### Function: `cl`
 
 This function enables the cloning of a specified GitHub repository to your local system.
 
-#### Parameters:
+##### Parameters:
 
 - `repoName` (string): The name of the repository to be cloned.
 
-#### Usage:
+##### Usage:
 
 ```powershell
 cl -repoName "your-repo-name"
 ```
 **Note:** Requires installation of the GitHub CLI.
 
-## Cloning Personal Repositories and Resetting Git Configurations
+### Cloning Personal Repositories and Resetting Git Configurations
 
-### Function: `clm`
+#### Function: `clm`
 
 This function is designed to clone personal GitHub repositories, rename the local folder, and reset Git settings.
 
-#### Parameters:
+##### Parameters:
 
 - `repoName` (string): The name of the repository to clone.
 - `destinationFolder` (string): The new name for the local repository folder.
 
-#### Usage:
+##### Usage:
 ```powershell
 clm -repoName "your-repo-name" -destinationFolder "new-folder-name"
 ```
 
-## pnpm Command Aliases
+### pnpm Command Aliases
 
 These functions serve to streamline common pnpm commands usage.
 
@@ -45,3 +48,9 @@ These functions serve to streamline common pnpm commands usage.
 | `re`     | `pnpm run release`  | Deploys the project                         | `re`    |
 | `d`      | `pnpm run dev`      | Starts the development server               | `d`     |
 | `b`      | `pnpm run build`    | Builds the project                          | `b`     |
+
+## macOS
+
+path = ~/.zshrc
+
+waiting update.

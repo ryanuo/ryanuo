@@ -1,10 +1,11 @@
 <p align="center">
   <samp>
-    <a href="https://mr90.top">me</a> .
-    <a href="https://mr90.top/posts">blog</a> .
-    <a href="https://www.mr90.top/projects">projects</a> .
-    <a href="https://www.mr90.top/demos">demos</a> .
-    <a href="https://www.mr90.top/navs">navs</a>
+    <a href="https://ryanuo.cc">me</a> .
+    <a href="https://ryanuo.cc/posts">blog</a> .
+    <a href="https://www.ryanuo.cc/projects">projects</a> .
+    <a href="https://www.ryanuo.cc/demos">demos</a> .
+    <a href="https://www.ryanuo.cc/navs">navs</a> .
+    <a href="https://github.com/ryanuo/ryanuo/blob/master/use.md">use</a> .
   </samp>
 </p>
 
