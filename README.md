@@ -12,10 +12,10 @@
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [导航 | Ryan uo](https://ryanuo.cc/zh/navs)
-- [工具 | Ryan uo](https://ryanuo.cc/zh/navs/tools)
-- [Tools | Ryan uo](https://ryanuo.cc/navs/tools)
 - [组件库 | Ryan uo](https://ryanuo.cc/zh/navs/libraries)
-- [Navs | Ryan uo](https://ryanuo.cc/navs)
+- [工具 | Ryan uo](https://ryanuo.cc/zh/navs/tools)
+- [Libraries | Ryan uo](https://ryanuo.cc/navs/libraries)
+- [Tools | Ryan uo](https://ryanuo.cc/navs/tools)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
