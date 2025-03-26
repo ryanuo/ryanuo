@@ -8,6 +8,8 @@
     <a href="https://github.com/ryanuo/ryanuo/blob/master/use.md">use</a>
   </samp>
 </p>
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
