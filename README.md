@@ -20,6 +20,11 @@
 
 📊 &nbsp;**Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <p align="right"><img src="https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove"/></p>
