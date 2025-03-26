@@ -11,11 +11,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Template CLI: A Powerful Tool for Managing Project Templates](https://ryanuo.cc/posts/tmpl-cli)
 - [Rewrite BlazeB2 Image Hosting Service using Next.js](https://ryanuo.cc/posts/rewrite-blazeb2)
-- [Markdown-it Diagram Control Plugin](https://ryanuo.cc/posts/md-it-diagarm)
+- [Markdown-it Diagram: A Powerful Plugin for Flowcharts](https://ryanuo.cc/posts/md-it-diagarm)
 - [Configuring Oh My Zsh through Git Bash on Windows](https://ryanuo.cc/posts/zsh-windows)
-- [My Interface Display Page](https://ryanuo.cc/posts/own-api)
-- [Remember the problems you encountered when using swiper](https://ryanuo.cc/posts/swiper)
+- [My API Showcase - Real-Time Data and Service Interfaces](https://ryanuo.cc/posts/own-api)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
