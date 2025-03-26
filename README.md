@@ -9,7 +9,11 @@
   </samp>
 </p>
 
-📊 **Weekly development breakdown**
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📊 &nbsp;**Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
