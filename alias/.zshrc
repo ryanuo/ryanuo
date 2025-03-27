@@ -1,41 +1,26 @@
 # Path to your oh-my-zsh installation.
-export ZSH="$HOME/.oh-my-zsh"
-
+export ZSH="$HOME/.oh-my-zsh" # macOS
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="random"
 plugins=(git zsh-autosuggestions)
-
 source $ZSH/oh-my-zsh.sh
 
-# aliases
-# GitHub CLI operations
-# Function to clone a repository from GitHub to the local machine
-github_path="/C/sys/project/github" # Path where GitHub repositories are stored locally
-gh_username="ryanuo"
+# Nvm configuration
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-cl() {
-    repoName=$1  # Name of the repository to clone
-    cd $github_path
-    gh repo clone "$repoName" # Clone the repository using GitHub CLI
-}
+# Rust configuration
+export PATH="$HOME/.cargo/bin:$PATH"
 
-# Function to clone a personal repository, rename it, and reconfigure the Git settings
-clm() {
-    repoName=$1  # Name of the repository to clone
-    destinationFolder=$2  # New name for the local repository folder
-    cd $github_path
-    # Clone the repository using GitHub CLI specifying the username
-    gh repo clone "$gh_username/$repoName"
-    
-    # Move the cloned repository to a new folder with the specified name
-    mv $repoName $destinationFolder
-    
-    # Enter the new folder, remove the existing .git folder, reinitialize Git, and set up the remote
-    cd $destinationFolder
-    rm -rf .git # Remove .git folder if it exists
-    git init # Initialize a new Git repository
-    git checkout -b main # Create a new branch 'main'
-    git remote add origin "https://github.com/$gh_username/$destinationFolder.git" # Set the remote origin to the renamed repository
-}
+# Load aliases from .alias file
+if [ -f ~/.alias ]; then
+    source ~/.alias
+fi
 
-alias i='pnpm install' re='pnpm run release' d='pnpm run dev' b='pnpm run build'
+# Load pyenv
+export PYTHON_BUILD_MIRROR_URL_SKIP_CHECKSUM=1
+export PYTHON_BUILD_MIRROR_URL="https://registry.npmmirror.com/-/binary/python"
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init - zsh)"
