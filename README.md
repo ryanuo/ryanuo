@@ -17,7 +17,7 @@
 - [Rewrite BlazeB2 Image Hosting Service using Next.js](https://ryanuo.cc/posts/rewrite-blazeb2)
 - [Markdown-it Diagram: A Powerful Plugin for Flowcharts](https://ryanuo.cc/posts/md-it-diagarm)
 <!-- BLOG-POST-LIST:END -->
-- [...more](https://ryanuo.cc/posts)
+- [More......](https://ryanuo.cc/posts)
 
 📊 &nbsp;**Weekly development breakdown**
 <!--START_SECTION:waka-->
