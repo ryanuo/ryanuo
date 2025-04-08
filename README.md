@@ -14,8 +14,8 @@
 - [Comprehensive Guide to GPT Interaction and Application Platform](https://ryanuo.cc/posts/gpt)
 - [A Complete Guide to Creating a Custom Email with ForwardEmail](https://ryanuo.cc/posts/forwardemail)
 - [Template CLI: A Powerful Tool for Managing Project Templates](https://ryanuo.cc/posts/tmpl-cli)
+- [Comprehensive Gold Investment Guide](https://ryanuo.cc/posts/aug)
 - [Rewrite BlazeB2 Image Hosting Service using Next.js](https://ryanuo.cc/posts/rewrite-blazeb2)
-- [Markdown-it Diagram: A Powerful Plugin for Flowcharts](https://ryanuo.cc/posts/md-it-diagarm)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
