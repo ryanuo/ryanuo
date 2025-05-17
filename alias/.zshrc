@@ -24,3 +24,6 @@ export PYTHON_BUILD_MIRROR_URL="https://registry.npmmirror.com/-/binary/python"
 export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init - zsh)"
+
+# c# path
+export PATH="/usr/local/share/dotnet:$PATH"

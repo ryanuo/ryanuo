@@ -35,3 +35,6 @@ alias i='pnpm install'
 alias re='pnpm run release'
 alias d='pnpm run dev'
 alias b='pnpm run build'
+alias x='pnpm run fix'
+# ollama local wep serve
+alias ol='~/start_ollama_openwebui.sh'
