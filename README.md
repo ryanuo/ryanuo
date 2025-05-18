@@ -15,7 +15,7 @@
 - [A Complete Guide to Creating a Custom Email with ForwardEmail](https://ryanuo.cc/posts/forwardemail)
 - [Template CLI: A Powerful Tool for Managing Project Templates](https://ryanuo.cc/posts/tmpl-cli)
 - [Comprehensive Gold Investment Guide](https://ryanuo.cc/posts/aug)
-- [Rewrite BlazeB2 Image Hosting Service using Next.js](https://ryanuo.cc/posts/rewrite-blazeb2)
+- [Local Deployment Guide for Ollama and Open-WebUI on Mac](https://ryanuo.cc/posts/ollama)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
