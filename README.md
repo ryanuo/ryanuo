@@ -1,3 +1,5 @@
+# ryanuo 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1.svg)](https://wakatime.com/@e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1)
+
 <p align="center">
   <samp>
     <a href="https://ryanuo.cc">me</a> .
