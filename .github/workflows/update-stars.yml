@@ -1,0 +1,35 @@
+name: Update Project Lists
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # 每周一 00:00 运行
+  workflow_dispatch:       # 手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate PROJECTS.md & STARRED.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run generate
+
+      - name: Commit and Push Generated Lists
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: auto update project & star lists [ci skip]'
+          branch: master
