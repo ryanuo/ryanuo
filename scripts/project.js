@@ -31,6 +31,7 @@ async function fetchStarred() {
     per_page: 100,
   })
   return res
+    .filter(r => r.owner.login.toLowerCase() !== username.toLowerCase()) // 🚫 过滤掉自己的仓库
     .map(r => ({
       name: `${r.owner.login}/${r.name}`,
       stars: r.stargazers_count,
