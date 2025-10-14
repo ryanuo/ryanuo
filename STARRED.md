@@ -1,6 +1,6 @@
 # 🌟 ryanuo Star 的项目
 
-自动生成于 10/14/2025, 12:55:17 AM。
+自动生成于 10/14/2025, 1:02:36 AM。
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -341,7 +341,6 @@
 | [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) | ⭐ 194 | 一款基于 AI 的智能书签管理插件 |
 | [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) | ⭐ 188 | Create sketchy, hand-drawn-like images from SVGs |
 | [blueswen/mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) | ⭐ 181 | A MkDocs plugin supports image lightbox (zoom effect) with GLightbox. |
-| [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 175 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
 | [j2css/j2c](https://github.com/j2css/j2c) | ⭐ 167 | CSS in JS library, tiny yet featureful |
 | [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) | ⭐ 159 | exe一键快速唤醒PC版小爱同学 |
 | [antfu/nip](https://github.com/antfu/nip) | ⭐ 145 |  |
@@ -356,26 +355,12 @@
 | [antfu/vite-plugin-hot-vfs](https://github.com/antfu/vite-plugin-hot-vfs) | ⭐ 40 | Mounting virtual file systems with HMR in Vite |
 | [vfastcloud/freeclash](https://github.com/vfastcloud/freeclash) | ⭐ 39 | 一元机场，老牌机场，每日更新，提供多个订阅地址和高速免费节点，支持V2Ray、VPN、免费机场，无限流量！V2Ray节点分享，兼容v2ray、clash和小火箭！VPN，包括Winxray、2rayNG、BifrostV、Clash、Kitsunebi、V2rayN、V2rayW、Mellow等等。科学上网翻墙白嫖节点，免费梯子，永久免费代理，小飞侠SSR等等服务，让你畅游互联网不再受限！ |
 | [AlbertZhaoz/tuling-gk](https://github.com/AlbertZhaoz/tuling-gk) | ⭐ 29 | 图灵工控一期课程配套代码，课程涵盖编程基本功+工业协议+Winform+Wpf+工业互联+智能化黑灯工厂项目（基于最新的 .NET8），毕业从小白到年薪 30-40 万，完全是自己走过的路，亲身实践。 |
-| [ryanuo/hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
 | [Daydreamer-riri/vscode-ext-packages](https://github.com/Daydreamer-riri/vscode-ext-packages) | ⭐ 15 | Helps JavaScript developers managing dependencies with package.json. |
 | [NxResume/DualMode-ResumeEditor](https://github.com/NxResume/DualMode-ResumeEditor) | ⭐ 13 | 一个基于 Nuxt 3 & Vue 3 的现代化、功能丰富的简历编辑器，支持 Markdown/WYSIWYG 双模式、GitHub 登录、本地与云端双存储、主题切换、PDF/图片/ZIP 导出、PWA 离线、国际化等特性。A dual-mode resume editor built with Nuxt – supports both local editing and cloud-based (database) saving. |
 | [wowmarcomei/awesome-gpt4o-images-prompt-online](https://github.com/wowmarcomei/awesome-gpt4o-images-prompt-online) | ⭐ 13 |  |
-| [ryanuo/markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
-| [ryanuo/dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
 | [nevware21/ts-utils](https://github.com/nevware21/ts-utils) | ⭐ 9 | Comprehensive TypeScript/JavaScript utility library with cross-environment support (Node.js, browser, web worker) providing helper functions, polyfills (ES5-ES2023), type checking utilities, and optimized implementations for better minification and code readability. |
-| [ryanuo/ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 9 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
-| [ryanuo/commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 8 | GitHub 中提交开源项目的次数 3D 可视化图表 |
-| [ryanuo/hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 7 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
-| [ryanuo/hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
 | [NxResume/nuxt-resume-editor](https://github.com/NxResume/nuxt-resume-editor) | ⭐ 2 | A Markdown resume editor based on Nuxt 3, which supports real - time preview and one - click PDF export. |
-| [ryanuo/own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
 | [blazeb2/blazeB2](https://github.com/blazeb2/blazeB2) | ⭐ 2 | 📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具 |
 | [Stenbeck/passkey-auth-nuxt-boilerplate](https://github.com/Stenbeck/passkey-auth-nuxt-boilerplate) | ⭐ 1 | Passwordless Nuxt 3 boilerplate using Passkeys and Magic Link (WebAuthn + JWT + MongoDB) |
-| [ryanuo/mts](https://github.com/ryanuo/mts) | ⭐ 1 | 网页多端带壳截图工具，基于nuxt4打造而成，个人自用 |
-| [ryanuo/userscripts](https://github.com/ryanuo/userscripts) | ⭐ 1 | A collection of userscripts for various purposes. |
-| [ryanuo/utils](https://github.com/ryanuo/utils) | ⭐ 1 |  Provide a variety of practical utility functions, covering multiple fields such as algorithms, browser operations, network requests, etc. |
-| [ryanuo/tmpl-cli](https://github.com/ryanuo/tmpl-cli) | ⭐ 1 | Convenient project template management tool, quickly clone templates from Git repositories |
 | [blazeb2/blazeb2-next](https://github.com/blazeb2/blazeb2-next) | ⭐ 1 | blazeb2-next is a cloud-based image hosting management system built on Next.js. |
-| [ryanuo/navs](https://github.com/ryanuo/navs) | ⭐ 1 | Summary of front-end navigation external links |
 | [blazeb2/b2mongodb](https://github.com/blazeb2/b2mongodb) | ⭐ 1 | 支持配置信息存储至数据库（数据库版）📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具 |
-| [ryanuo/webcli](https://github.com/ryanuo/webcli) | ⭐ 1 | 常用的vue2/3脚手架,公共配置，无需再次配置 |
