@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 10/14/2025, 1:02:36 AM。
+自动生成于 10/20/2025, 1:24:54 AM。
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -17,10 +17,12 @@
 | [xpalmworm](https://github.com/ryanuo/xpalmworm) | ⭐ 6 | 害虫识别后台管理Vue3+element-plus+Typescript+sass |
 | [git-calendar](https://github.com/ryanuo/git-calendar) | ⭐ 5 | GitHub 日历，使用python 爬取 |
 | [hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 4 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [de_repeat](https://github.com/ryanuo/de_repeat) | ⭐ 3 | 文本降重支持web和exe格式 |
-| [gpt](https://github.com/ryanuo/gpt) | ⭐ 2 | post,wx,image api |
+| [gpt](https://github.com/ryanuo/gpt) | ⭐ 2 | This is a Flask-based web application that provides API endpoints and a simple front-end interface for interacting with GPT models. Users can chat with AI, generate images, or get content summaries via a WeChat official account or web interface. |
 | [node-js](https://github.com/ryanuo/node-js) | ⭐ 2 | node.js的一些练习项目 |
 | [own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
+| [utils](https://github.com/ryanuo/utils) | ⭐ 2 |  Provide a variety of practical utility functions, covering multiple fields such as algorithms, browser operations, network requests, etc. |
 | [wx-vue](https://github.com/ryanuo/wx-vue) | ⭐ 2 | 企业微信打卡 vue+flask项目 |
 | [aug-calc](https://github.com/ryanuo/aug-calc) | ⭐ 1 | Gold Trades - 黄金交易记录分析工具 |
 | [emailformwork](https://github.com/ryanuo/emailformwork) | ⭐ 1 | 自定义邮箱回复模板，小卡片 |
@@ -30,10 +32,10 @@
 | [mts](https://github.com/ryanuo/mts) | ⭐ 1 | 网页多端带壳截图工具，基于nuxt4打造而成，个人自用 |
 | [navs](https://github.com/ryanuo/navs) | ⭐ 1 | Summary of front-end navigation external links |
 | [ryanuo.github.io](https://github.com/ryanuo/ryanuo.github.io) | ⭐ 1 |  |
+| [screenshot](https://github.com/ryanuo/screenshot) | ⭐ 1 |  |
 | [status](https://github.com/ryanuo/status) | ⭐ 1 | This project is a status monitoring dashboard for Ryanuo's pages. It provides real-time status updates for various services and displays them in an easy-to-understand format. |
 | [tmpl-cli](https://github.com/ryanuo/tmpl-cli) | ⭐ 1 | Convenient project template management tool, quickly clone templates from Git repositories |
 | [userscripts](https://github.com/ryanuo/userscripts) | ⭐ 1 | A collection of userscripts for various purposes. |
-| [utils](https://github.com/ryanuo/utils) | ⭐ 1 |  Provide a variety of practical utility functions, covering multiple fields such as algorithms, browser operations, network requests, etc. |
 | [webcli](https://github.com/ryanuo/webcli) | ⭐ 1 | 常用的vue2/3脚手架,公共配置，无需再次配置 |
 | [ai-starlist](https://github.com/ryanuo/ai-starlist) | ⭐ 0 |  |
 | [api](https://github.com/ryanuo/api) | ⭐ 0 | api list |
@@ -50,7 +52,6 @@
 | [music](https://github.com/ryanuo/music) | ⭐ 0 |  |
 | [resume](https://github.com/ryanuo/resume) | ⭐ 0 | 基于vue2的个人简历模板 |
 | [ryanuo](https://github.com/ryanuo/ryanuo) | ⭐ 0 |  |
-| [screenshot](https://github.com/ryanuo/screenshot) | ⭐ 0 |  |
 | [start-ts](https://github.com/ryanuo/start-ts) | ⭐ 0 |  |
 | [tab-ext](https://github.com/ryanuo/tab-ext) | ⭐ 0 | N-Tab 是一个轻量级浏览器标签页扩展，主要功能包括时间显示、搜索建议、搜索引擎切换、快捷翻译、主题配置等。 |
 | [textcss](https://github.com/ryanuo/textcss) | ⭐ 0 |  |
@@ -58,5 +59,4 @@
 | [tmpl-list](https://github.com/ryanuo/tmpl-list) | ⭐ 0 |  |
 | [vue2-shop](https://github.com/ryanuo/vue2-shop) | ⭐ 0 | 商城项目Vue2+axios+Vue-Router+Vuex+element-ui |
 | [wake-valine](https://github.com/ryanuo/wake-valine) | ⭐ 0 |  |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 0 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [wx_hexo](https://github.com/ryanuo/wx_hexo) | ⭐ 0 | Hexo文章数据接口+vercel部署 |
