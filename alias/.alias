@@ -30,6 +30,23 @@ clm() {
     git remote add origin "https://github.com/$gh_username/$destinationFolder.git" # Set the remote origin to the renamed repository
 }
 
+# Function to create a new Nuxt app using vitesse-nuxt
+nuxtapp() {
+    appName=$1 # Name of the new Nuxt app
+    if [ -z "$appName" ]; then
+        echo "❌ Error: Please provide a project name."
+        echo "Usage: nuxtapp <project-name>"
+        return 1
+    fi
+
+    basePath="/Users/ryanuo/dev/github"
+    cd "$basePath" || exit
+    echo "Creating Nuxt app: $appName in $basePath"
+    npx degit antfu/vitesse-nuxt "$appName"
+    cd "$appName" || exit
+    pnpm i # If pnpm not installed, run: npm install -g pnpm
+}
+
 # Aliases for common commands
 alias i='pnpm install'
 alias re='pnpm run release'
