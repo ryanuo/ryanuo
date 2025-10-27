@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 10/20/2025, 1:24:54 AM。
+自动生成于 10/27/2025, 1:27:07 AM。
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -8,17 +8,18 @@
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
-| [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 9 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
+| [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 10 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
 | [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 8 | GitHub 中提交开源项目的次数 3D 可视化图表 |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 8 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
 | [hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 7 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
 | [qiandao](https://github.com/ryanuo/qiandao) | ⭐ 7 | CSDN自动签到 ,网易云签到 |
 | [xpalmworm](https://github.com/ryanuo/xpalmworm) | ⭐ 6 | 害虫识别后台管理Vue3+element-plus+Typescript+sass |
 | [git-calendar](https://github.com/ryanuo/git-calendar) | ⭐ 5 | GitHub 日历，使用python 爬取 |
 | [hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 4 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [de_repeat](https://github.com/ryanuo/de_repeat) | ⭐ 3 | 文本降重支持web和exe格式 |
+| [douyin](https://github.com/ryanuo/douyin) | ⭐ 3 | 抖音小姐姐 |
 | [gpt](https://github.com/ryanuo/gpt) | ⭐ 2 | This is a Flask-based web application that provides API endpoints and a simple front-end interface for interacting with GPT models. Users can chat with AI, generate images, or get content summaries via a WeChat official account or web interface. |
 | [node-js](https://github.com/ryanuo/node-js) | ⭐ 2 | node.js的一些练习项目 |
 | [own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
