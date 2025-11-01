@@ -1,6 +1,11 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 10/27/2025, 1:27:07 AM。
+自动生成于 11/1/2025, 5:55:33 AM。
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fdayjs%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d%2Cryanuo%2FwhatToEat&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/dayjs&ryanuo/ryanuo.cc&ryanuo/zh-flag&ryanuo/commit-3d&ryanuo/whatToEat&type=date&legend=top-left)
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -15,11 +20,11 @@
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
 | [hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 7 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
 | [qiandao](https://github.com/ryanuo/qiandao) | ⭐ 7 | CSDN自动签到 ,网易云签到 |
+| [douyin](https://github.com/ryanuo/douyin) | ⭐ 6 | 抖音小姐姐 |
 | [xpalmworm](https://github.com/ryanuo/xpalmworm) | ⭐ 6 | 害虫识别后台管理Vue3+element-plus+Typescript+sass |
 | [git-calendar](https://github.com/ryanuo/git-calendar) | ⭐ 5 | GitHub 日历，使用python 爬取 |
 | [hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
 | [de_repeat](https://github.com/ryanuo/de_repeat) | ⭐ 3 | 文本降重支持web和exe格式 |
-| [douyin](https://github.com/ryanuo/douyin) | ⭐ 3 | 抖音小姐姐 |
 | [gpt](https://github.com/ryanuo/gpt) | ⭐ 2 | This is a Flask-based web application that provides API endpoints and a simple front-end interface for interacting with GPT models. Users can chat with AI, generate images, or get content summaries via a WeChat official account or web interface. |
 | [node-js](https://github.com/ryanuo/node-js) | ⭐ 2 | node.js的一些练习项目 |
 | [own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
