@@ -12,6 +12,9 @@
 </p>
 
 📕 &nbsp;**Latest Blog Posts**
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
 <!-- BLOG-POST-LIST:START -->
 - [Build Your First MCP Server in TypeScript in 10 Minutes](https://ryanuo.cc/posts/mcp) - Jul 12, 2025
 - [Comprehensive Guide to GPT Interaction and Application Platform](https://ryanuo.cc/posts/gpt) - Apr 2, 2025
