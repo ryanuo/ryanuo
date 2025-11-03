@@ -1,11 +1,11 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 11/1/2025, 5:55:33 AM。
+自动生成于 11/3/2025, 1:25:22 AM。
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fdayjs%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d%2Cryanuo%2FwhatToEat&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/dayjs&ryanuo/ryanuo.cc&ryanuo/zh-flag&ryanuo/commit-3d&ryanuo/whatToEat&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fdayjs%2Cryanuo%2Fryanuo.cc%2Cryanuo%2FwhatToEat%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/dayjs&ryanuo/ryanuo.cc&ryanuo/whatToEat&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -14,9 +14,9 @@
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 10 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 9 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
-| [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 8 | GitHub 中提交开源项目的次数 3D 可视化图表 |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 8 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
+| [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 7 | GitHub 中提交开源项目的次数 3D 可视化图表 |
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
 | [hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 7 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
 | [qiandao](https://github.com/ryanuo/qiandao) | ⭐ 7 | CSDN自动签到 ,网易云签到 |
@@ -58,6 +58,7 @@
 | [music](https://github.com/ryanuo/music) | ⭐ 0 |  |
 | [resume](https://github.com/ryanuo/resume) | ⭐ 0 | 基于vue2的个人简历模板 |
 | [ryanuo](https://github.com/ryanuo/ryanuo) | ⭐ 0 |  |
+| [sponsor](https://github.com/ryanuo/sponsor) | ⭐ 0 |  |
 | [start-ts](https://github.com/ryanuo/start-ts) | ⭐ 0 |  |
 | [tab-ext](https://github.com/ryanuo/tab-ext) | ⭐ 0 | N-Tab 是一个轻量级浏览器标签页扩展，主要功能包括时间显示、搜索建议、搜索引擎切换、快捷翻译、主题配置等。 |
 | [textcss](https://github.com/ryanuo/textcss) | ⭐ 0 |  |
