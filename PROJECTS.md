@@ -1,19 +1,19 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 11/3/2025, 1:25:22 AM。
+自动生成于 11/10/2025, 1:26:08 AM。
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fdayjs%2Cryanuo%2Fryanuo.cc%2Cryanuo%2FwhatToEat%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/dayjs&ryanuo/ryanuo.cc&ryanuo/whatToEat&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fdayjs%2Cryanuo%2FwhatToEat%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/ryanuo.cc&ryanuo/dayjs&ryanuo/whatToEat&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
 | [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 175 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
+| [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
-| [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 10 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
 | [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 9 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
 | [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 7 | GitHub 中提交开源项目的次数 3D 可视化图表 |
