@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 11/10/2025, 1:26:08 AM。
+自动生成于 11/17/2025, 1:24:13 AM。
 
 
 ## Star History
@@ -14,7 +14,7 @@
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 9 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 10 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
 | [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 7 | GitHub 中提交开源项目的次数 3D 可视化图表 |
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
