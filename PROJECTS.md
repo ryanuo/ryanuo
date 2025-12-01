@@ -1,11 +1,11 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 11/24/2025, 1:28:17 AM。
+自动生成于 12/1/2025, 1:48:32 AM。
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fdayjs%2Cryanuo%2FwhatToEat%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/ryanuo.cc&ryanuo/dayjs&ryanuo/whatToEat&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fryanuo.cc%2Cryanuo%2FwhatToEat%2Cryanuo%2Fdayjs%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/ryanuo.cc&ryanuo/whatToEat&ryanuo/dayjs&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
@@ -13,8 +13,8 @@
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 11 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 10 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
 | [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 7 | GitHub 中提交开源项目的次数 3D 可视化图表 |
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
@@ -26,6 +26,7 @@
 | [hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
 | [de_repeat](https://github.com/ryanuo/de_repeat) | ⭐ 3 | 文本降重支持web和exe格式 |
 | [gpt](https://github.com/ryanuo/gpt) | ⭐ 2 | This is a Flask-based web application that provides API endpoints and a simple front-end interface for interacting with GPT models. Users can chat with AI, generate images, or get content summaries via a WeChat official account or web interface. |
+| [mts](https://github.com/ryanuo/mts) | ⭐ 2 | 网页多端带壳截图工具，基于nuxt4打造而成，个人自用 |
 | [node-js](https://github.com/ryanuo/node-js) | ⭐ 2 | node.js的一些练习项目 |
 | [own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
 | [utils](https://github.com/ryanuo/utils) | ⭐ 2 |  Provide a variety of practical utility functions, covering multiple fields such as algorithms, browser operations, network requests, etc. |
@@ -35,7 +36,6 @@
 | [javascript](https://github.com/ryanuo/javascript) | ⭐ 1 | JavaScript学习的实例化演示，个人主页 |
 | [Lantern](https://github.com/ryanuo/Lantern) | ⭐ 1 | 给你的博客顶部添加灯笼特效年味 |
 | [mcloud](https://github.com/ryanuo/mcloud) | ⭐ 1 | 网易云音乐 react版本 学习制作中 |
-| [mts](https://github.com/ryanuo/mts) | ⭐ 1 | 网页多端带壳截图工具，基于nuxt4打造而成，个人自用 |
 | [navs](https://github.com/ryanuo/navs) | ⭐ 1 | Summary of front-end navigation external links |
 | [ryanuo.github.io](https://github.com/ryanuo/ryanuo.github.io) | ⭐ 1 |  |
 | [screenshot](https://github.com/ryanuo/screenshot) | ⭐ 1 |  |
