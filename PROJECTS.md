@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 12/1/2025, 1:48:32 AM。
+自动生成于 12/8/2025, 1:26:04 AM。
 
 
 ## Star History
@@ -9,7 +9,7 @@
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
-| [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 175 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
+| [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 177 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 11 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
