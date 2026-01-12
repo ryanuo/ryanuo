@@ -26,7 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     21 mins         █████████▓░░░░░░░░░░░░░░░   39.21 %
+JavaScript   21 mins         █████████▓░░░░░░░░░░░░░░░   39.17 %
+TypeScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
 ```
 
 <!--END_SECTION:waka-->
