@@ -1,27 +1,27 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 3/16/2026, 2:13:29 AM。
+自动生成于 3/23/2026, 2:06:40 AM。
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2FwhatToEat%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fdayjs%2Cryanuo%2Fzh-flag%2Cryanuo%2Fcommit-3d&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/whatToEat&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/ryanuo.cc&ryanuo/dayjs&ryanuo/zh-flag&ryanuo/commit-3d&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ryanuo%2FblazeB2%2Cryanuo%2FwhatToEat%2Cryanuo%2Fhexo-wx-api%2Cryanuo%2Fmarkdown-it-diagram%2Cryanuo%2Fryanuo.cc%2Cryanuo%2Fdayjs%2Cryanuo%2Fzh-flag%2Cryanuo%2Fhexo-generator-wxapi&type=date&legend=top-left)](https://www.star-history.com/#ryanuo/blazeB2&ryanuo/whatToEat&ryanuo/hexo-wx-api&ryanuo/markdown-it-diagram&ryanuo/ryanuo.cc&ryanuo/dayjs&ryanuo/zh-flag&ryanuo/hexo-generator-wxapi&type=date&legend=top-left)
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
 | [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 180 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 54 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
-| [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 17 | A WeChat applet based on the hexo framework |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 55 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
+| [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 18 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 13 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
 | [dayjs](https://github.com/ryanuo/dayjs) | ⭐ 10 | 每日一题，前端面试知识，JavaScript题目 |
 | [zh-flag](https://github.com/ryanuo/zh-flag) | ⭐ 9 | vue国庆头像 |
+| [hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 8 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
 | [commit-3d](https://github.com/ryanuo/commit-3d) | ⭐ 7 | GitHub 中提交开源项目的次数 3D 可视化图表 |
 | [dingding](https://github.com/ryanuo/dingding) | ⭐ 7 | 钉钉/企业微信自动打卡，钉钉消息回复 |
-| [hexo-generator-wxapi](https://github.com/ryanuo/hexo-generator-wxapi) | ⭐ 7 | 一款生成hexo-Api接口的npm包，基于hexo-generator-restful |
 | [qiandao](https://github.com/ryanuo/qiandao) | ⭐ 7 | CSDN自动签到 ,网易云签到 |
+| [xpalmworm](https://github.com/ryanuo/xpalmworm) | ⭐ 7 | 害虫识别后台管理Vue3+element-plus+Typescript+sass |
 | [douyin](https://github.com/ryanuo/douyin) | ⭐ 6 | 抖音小姐姐 |
-| [xpalmworm](https://github.com/ryanuo/xpalmworm) | ⭐ 6 | 害虫识别后台管理Vue3+element-plus+Typescript+sass |
 | [git-calendar](https://github.com/ryanuo/git-calendar) | ⭐ 5 | GitHub 日历，使用python 爬取 |
 | [hot_search](https://github.com/ryanuo/hot_search) | ⭐ 5 | 热搜榜-python爬虫+正则re+beautifulsoup+xpath |
 | [de_repeat](https://github.com/ryanuo/de_repeat) | ⭐ 3 | 文本降重支持web和exe格式 |
