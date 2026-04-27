@@ -1,53 +1,53 @@
 # 🌟 ryanuo Star 的项目
 
-自动生成于 4/20/2026, 2:33:38 AM。
+自动生成于 4/27/2026, 2:38:26 AM。
 
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 457k | 😎 Awesome lists about all kinds of interesting topics |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 443k | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 425k | A collective list of free APIs |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 293k | An opinionated list of Python frameworks, libraries, tools, and resources |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 459k | 😎 Awesome lists about all kinds of interesting topics |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 444k | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 427k | A collective list of free APIs |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 295k | An opinionated list of Python frameworks, libraries, tools, and resources |
 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | ⭐ 276k | Repo for counting stars and contributing. Press F to pay respect to glorious developers. |
 | [facebook/react](https://github.com/facebook/react) | ⭐ 245k | The library for web and native user interfaces. |
-| [torvalds/linux](https://github.com/torvalds/linux) | ⭐ 230k | Linux kernel source tree |
+| [torvalds/linux](https://github.com/torvalds/linux) | ⭐ 231k | Linux kernel source tree |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 210k | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ⭐ 196k | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 185k | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | ⭐ 186k | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | ⭐ 184k | Visual Studio Code |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | ⭐ 182k | Python - 100天从新手到大师 |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 169k | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ⭐ 162k | Stable Diffusion web UI |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 161k | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 138k | Production-ready platform for agentic workflow development. |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 133k | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 170k | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 168k | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ⭐ 163k | Stable Diffusion web UI |
+| [langgenius/dify](https://github.com/langgenius/dify) | ⭐ 139k | Production-ready platform for agentic workflow development. |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 134k | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ⭐ 128k | Coding articles to level up your development skills |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | ⭐ 125k | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| [d3/d3](https://github.com/d3/d3) | ⭐ 113k | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | ⭐ 126k | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ⭐ 113k | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 112k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ⭐ 113k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [d3/d3](https://github.com/d3/d3) | ⭐ 113k | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 112k | 🔥 The API to search, scrape, and interact with the web for AI |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | ⭐ 112k | Empowering everyone to build reliable and efficient software. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ⭐ 111k | 🔥 The API to search, scrape, and interact with the web for AI |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ⭐ 109k | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ⭐ 110k | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 | [axios/axios](https://github.com/axios/axios) | ⭐ 109k | Promise based HTTP client for the browser and node.js |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | ⭐ 109k | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | ⭐ 108k | :cn: GitHub中文排行榜，各语言分设「软件 \| 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | [denoland/deno](https://github.com/denoland/deno) | ⭐ 107k | A modern runtime for JavaScript and TypeScript. |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | ⭐ 99k | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
-| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 98k | High performance self-hosted photo and video management solution. |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | ⭐ 100k | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
+| [immich-app/immich](https://github.com/immich-app/immich) | ⭐ 99k | High performance self-hosted photo and video management solution. |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ⭐ 98k | An enterprise-class UI design language and React UI library |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | ⭐ 95k | A utility-first CSS framework for rapid UI development. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | ⭐ 91k | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 90k | 科技爱好者周刊，每周五发布 |
 | [oven-sh/bun](https://github.com/oven-sh/bun) | ⭐ 89k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 89k | 科技爱好者周刊，每周五发布 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | ⭐ 89k | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ⭐ 88k | ✨ Light and Fast AI Assistant. Support: Web \| iOS \| MacOS \| Android \|  Linux \| Windows |
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ⭐ 87k | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ⭐ 88k | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [microsoft/playwright](https://github.com/microsoft/playwright) | ⭐ 87k | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  |
 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | ⭐ 86k | web development for the rest of us |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 80k | Next generation frontend tooling. It's fast! |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 79k | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 77k | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐ 78k | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [typicode/json-server](https://github.com/typicode/json-server) | ⭐ 76k | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
 | [nestjs/nest](https://github.com/nestjs/nest) | ⭐ 75k | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 |
 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | ⭐ 72k | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
@@ -73,10 +73,10 @@
 | [pixijs/pixijs](https://github.com/pixijs/pixijs) | ⭐ 47k | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | ⭐ 46k | Presentation Slides for Developers |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | ⭐ 44k | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | ⭐ 44k | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | ⭐ 44k | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 44k | 🧡 Everything is RSSible |
 | [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | ⭐ 43k | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
-| [colinhacks/zod](https://github.com/colinhacks/zod) | ⭐ 42k | TypeScript-first schema validation with static type inference |
+| [colinhacks/zod](https://github.com/colinhacks/zod) | ⭐ 43k | TypeScript-first schema validation with static type inference |
 | [nolimits4web/swiper](https://github.com/nolimits4web/swiper) | ⭐ 42k | Most modern mobile touch slider with hardware accelerated transitions |
 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | ⭐ 41k | 🐉 Vue Component Framework |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | ⭐ 41k | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
@@ -84,10 +84,10 @@
 | [freefq/free](https://github.com/freefq/free) | ⭐ 40k | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
 | [chatboxai/chatbox](https://github.com/chatboxai/chatbox) | ⭐ 40k | Powerful AI Client |
 | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | ⭐ 39k | A generative speech model for daily dialogue. |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | ⭐ 38k | Collection of handy online tools for developers, with great UX.  |
 | [exelban/stats](https://github.com/exelban/stats) | ⭐ 38k | macOS system monitor in your menu bar |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | ⭐ 38k | Collection of handy online tools for developers, with great UX.  |
+| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | ⭐ 38k | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt \| deepseek \| claude \| gemini \| grok 等排名靠前的常用大模型。 |
 | [NervJS/taro](https://github.com/NervJS/taro) | ⭐ 37k | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/ |
-| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | ⭐ 37k | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt \| deepseek \| claude \| gemini \| grok 等排名靠前的常用大模型。 |
 | [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) | ⭐ 36k | Instant voice cloning by MIT and MyShell. Audio foundation model. |
 | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | ⭐ 35k | 程序员延寿指南 \| A programmer's guide to live longer |
 | [jaredpalmer/formik](https://github.com/jaredpalmer/formik) | ⭐ 34k | Build forms in React, without the tears 😭  |
@@ -96,8 +96,8 @@
 | [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) | ⭐ 33k | A collection of modern/faster/saner alternatives to common unix commands. |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | ⭐ 33k | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  |
 | [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | ⭐ 33k | A JavaScript library to position floating elements and create interactions for them. |
-| [lovell/sharp](https://github.com/lovell/sharp) | ⭐ 32k | High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. |
 | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | ⭐ 32k | A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast! |
+| [lovell/sharp](https://github.com/lovell/sharp) | ⭐ 32k | High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. |
 | [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) | ⭐ 32k | Screenshots with JavaScript |
 | [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | ⭐ 32k | 用 Express 和  Vue3 搭建的 ChatGPT 演示网页 |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | ⭐ 32k | A modern animation library for React and JavaScript |
@@ -105,31 +105,31 @@
 | [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) | ⭐ 31k | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser |
 | [mantinedev/mantine](https://github.com/mantinedev/mantine) | ⭐ 31k | A fully featured React components library |
 | [ascoders/weekly](https://github.com/ascoders/weekly) | ⭐ 31k | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 31k | AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 | [s0md3v/roop](https://github.com/s0md3v/roop) | ⭐ 30k |  |
 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | ⭐ 30k | 网易云音乐 Node.js API service |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | ⭐ 30k | AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 | [vercel/turborepo](https://github.com/vercel/turborepo) | ⭐ 30k | Build system optimized for JavaScript and TypeScript, written in Rust |
 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | ⭐ 30k | Automated auditing, performance metrics, and best practices for the web. |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | ⭐ 30k | 😎 A curated list of awesome GitHub Profile which updates in real time  |
 | [IanLunn/Hover](https://github.com/IanLunn/Hover) | ⭐ 29k | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 29k | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
 | [pmndrs/react-spring](https://github.com/pmndrs/react-spring) | ⭐ 29k | ✌️ A spring physics based React animation library |
 | [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | ⭐ 29k | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) |
 | [immerjs/immer](https://github.com/immerjs/immer) | ⭐ 29k | Create the next immutable state by mutating the current one |
 | [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) | ⭐ 29k | The best way to start a full-stack, typesafe Next.js app  |
-| [qianguyihao/Web](https://github.com/qianguyihao/Web) | ⭐ 29k | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 |
 | [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) | ⭐ 29k | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [qianguyihao/Web](https://github.com/qianguyihao/Web) | ⭐ 29k | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 |
 | [mobxjs/mobx](https://github.com/mobxjs/mobx) | ⭐ 28k | Simple, scalable state management. |
 | [YMFE/yapi](https://github.com/YMFE/yapi) | ⭐ 28k | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 28k | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | ⭐ 28k | A list of AI autonomous agents |
 | [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | ⭐ 27k | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | ⭐ 27k | 🌩 Self-hosted file management and sharing system, supports multiple storage providers |
-| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | ⭐ 27k | A list of AI autonomous agents |
 | [element-plus/element-plus](https://github.com/element-plus/element-plus) | ⭐ 27k | 🎉 A Vue.js 3 UI Library made by Element team |
 | [eslint/eslint](https://github.com/eslint/eslint) | ⭐ 27k | Find and fix problems in your JavaScript code. |
 | [recharts/recharts](https://github.com/recharts/recharts) | ⭐ 27k | Redefined chart library built with React and D3 |
-| [badges/shields](https://github.com/badges/shields) | ⭐ 26k | Concise, consistent, and legible badges in SVG and raster format |
-| [haizlin/fe-interview](https://github.com/haizlin/fe-interview) | ⭐ 26k | 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能…… |
+| [badges/shields](https://github.com/badges/shields) | ⭐ 27k | Concise, consistent, and legible badges in SVG and raster format |
 | [rollup/rollup](https://github.com/rollup/rollup) | ⭐ 26k | Next-generation ES module bundler |
+| [haizlin/fe-interview](https://github.com/haizlin/fe-interview) | ⭐ 26k | 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能…… |
 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | ⭐ 26k | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
 | [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | ⭐ 25k | JavaScript image gallery for mobile and desktop, modular, framework independent |
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | ⭐ 25k | SVG icons for popular brands |
@@ -153,8 +153,8 @@
 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | ⭐ 21k | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. |
 | [openai/gpt-oss](https://github.com/openai/gpt-oss) | ⭐ 20k | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI |
 | [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) | ⭐ 19k | List of JavaScript methods which you can use natively + ESLint Plugin |
-| [unocss/unocss](https://github.com/unocss/unocss) | ⭐ 19k | The instant on-demand atomic CSS engine. |
 | [resend/react-email](https://github.com/resend/react-email) | ⭐ 19k | 💌 Build and send emails using React |
+| [unocss/unocss](https://github.com/unocss/unocss) | ⭐ 19k | The instant on-demand atomic CSS engine. |
 | [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | ⭐ 19k | 🤖 可 DIY 的 多模态 AI 聊天机器人 \| 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 \| 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI \| 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 \|  |
 | [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) | ⭐ 19k | Minimal templating on steroids. |
 | [alibaba/weex](https://github.com/alibaba/weex) | ⭐ 19k | A framework for building Mobile cross-platform UI |
@@ -171,9 +171,9 @@
 | [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) | ⭐ 16k | ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms. |
 | [umijs/umi](https://github.com/umijs/umi) | ⭐ 16k | A framework in react community ✨ |
 | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) | ⭐ 16k | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / openclaw |
+| [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | ⭐ 16k |  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 |
 | [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) | ⭐ 16k | :trollface:Git的奇技淫巧 |
 | [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) | ⭐ 16k | Markdown component for React |
-| [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | ⭐ 16k |  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 |
 | [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) | ⭐ 15k | :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso |
 | [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) | ⭐ 15k | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript. |
 | [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | ⭐ 15k | 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。 |
@@ -184,8 +184,8 @@
 | [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | ⭐ 14k | TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具 |
 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | ⭐ 13k | 一分钟搭建影视站，支持Vercel/Docker等部署方式 |
 | [rolldown/rolldown](https://github.com/rolldown/rolldown) | ⭐ 13k | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
-| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | ⭐ 13k | Use ChatGPT On Wechat via wechaty |
 | [shikijs/shiki](https://github.com/shikijs/shiki) | ⭐ 13k | A beautiful yet powerful syntax highlighter |
+| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | ⭐ 13k | Use ChatGPT On Wechat via wechaty |
 | [plantuml/plantuml](https://github.com/plantuml/plantuml) | ⭐ 13k | Generate diagrams from textual description |
 | [clearw5/Auto.js](https://github.com/clearw5/Auto.js) | ⭐ 13k | Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE) |
 | [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) | ⭐ 13k | Vue相关开源项目库汇总 |
@@ -198,51 +198,52 @@
 | [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) | ⭐ 11k | Display PDFs in your React app as easily as if they were images. |
 | [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) | ⭐ 11k | Simple HTML5 drag-drop zone with React.js. |
 | [Vanessa219/vditor](https://github.com/Vanessa219/vditor) | ⭐ 11k | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes. |
-| [Automattic/node-canvas](https://github.com/Automattic/node-canvas) | ⭐ 11k | Node canvas is a Cairo backed Canvas implementation for NodeJS. |
 | [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) | ⭐ 11k | ⚡️ Blazing fast scrolling for any amount of data |
+| [Automattic/node-canvas](https://github.com/Automattic/node-canvas) | ⭐ 11k | Node canvas is a Cairo backed Canvas implementation for NodeJS. |
 | [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) | ⭐ 11k | Fast and secure standalone server for resizing, processing, and converting images on the fly |
 | [chathub-dev/chathub](https://github.com/chathub-dev/chathub) | ⭐ 11k |  |
-| [pmndrs/valtio](https://github.com/pmndrs/valtio) | ⭐ 10k | 🧙 Valtio makes proxy-state simple  for React and Vanilla |
 | [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | ⭐ 10k | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili |
+| [pmndrs/valtio](https://github.com/pmndrs/valtio) | ⭐ 10k | 🧙 Valtio makes proxy-state simple  for React and Vanilla |
 | [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) | ⭐ 9.9k | H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. \| 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台. |
 | [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) | ⭐ 9.8k | Vue port of shadcn-ui |
 | [DataV-Team/DataV](https://github.com/DataV-Team/DataV) | ⭐ 9.6k | Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) |
 | [modelscope/facechain](https://github.com/modelscope/facechain) | ⭐ 9.5k | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
 | [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) | ⭐ 9.4k | 🏕 Opinionated Vite + Vue Starter Template |
 | [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) | ⭐ 9.3k | A self-paced course to learn Rust, one exercise at a time. |
+| [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | ⭐ 8.8k | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | ⭐ 8.7k | FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.  |
+| [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) | ⭐ 8.7k | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） |
 | [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) | ⭐ 8.7k | 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端 |
-| [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | ⭐ 8.5k | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [primefaces/primereact](https://github.com/primefaces/primereact) | ⭐ 8.3k | The Most Complete React UI Component Library |
 | [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) | ⭐ 8.3k |  🦋 A Hexo Theme: Butterfly |
 | [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) | ⭐ 8.2k | JavaScript image viewer. |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | ⭐ 8.0k | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 | [antvis/F2](https://github.com/antvis/F2) | ⭐ 8.0k | 📱📈An elegant, interactive and flexible charting library for mobile. |
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | ⭐ 7.9k | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 | [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | ⭐ 7.8k | 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates. |
 | [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | ⭐ 7.7k | :ant:前端面试复习笔记 |
 | [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | ⭐ 7.5k | 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces. |
 | [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) | ⭐ 7.4k | 编程之路 |
-| [unjs/consola](https://github.com/unjs/consola) | ⭐ 7.2k | 🐨 Elegant Console Logger for Node.js and Browser  |
+| [unjs/consola](https://github.com/unjs/consola) | ⭐ 7.3k | 🐨 Elegant Console Logger for Node.js and Browser  |
 | [win12-online/win12](https://github.com/win12-online/win12) | ⭐ 7.2k | Windows 12 网页版，在线体验 点击下面的链接在线体验 |
 | [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) | ⭐ 7.2k | 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 |
 | [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) | ⭐ 7.1k | ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. |
 | [cssinjs/jss](https://github.com/cssinjs/jss) | ⭐ 7.1k | JSS is an authoring tool for CSS which uses JavaScript as a host language. |
 | [aheckmann/gm](https://github.com/aheckmann/gm) | ⭐ 7.0k | GraphicsMagick for node |
 | [nuxt/ui](https://github.com/nuxt/ui) | ⭐ 6.5k | The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS. |
-| [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) | ⭐ 6.4k | Edit, preview and share mermaid charts/diagrams. New implementation of the live editor. |
+| [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) | ⭐ 6.5k | Edit, preview and share mermaid charts/diagrams. New implementation of the live editor. |
 | [YunYouJun/cook](https://github.com/YunYouJun/cook) | ⭐ 6.4k | 🍲 好的，今天我们来做菜！OK, Let's Cook! |
 | [wordshub/free-font](https://github.com/wordshub/free-font) | ⭐ 6.2k | 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中... |
 | [antfu/eslint-config](https://github.com/antfu/eslint-config) | ⭐ 6.2k | Anthony's ESLint config preset |
+| [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) | ⭐ 6.1k | 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度 |
 | [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) | ⭐ 6.1k | 🎉 Generate CSS for your Neumorphism designs |
-| [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) | ⭐ 6.0k | 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度 |
 | [meituan/YOLOv6](https://github.com/meituan/YOLOv6) | ⭐ 5.9k | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
 | [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) | ⭐ 5.7k | JavaScript image compressor. |
 | [arco-design/arco-design](https://github.com/arco-design/arco-design) | ⭐ 5.6k | A comprehensive React UI components library based on Arco Design |
 | [farm-fe/farm](https://github.com/farm-fe/farm) | ⭐ 5.6k | Extremely fast Vite-compatible web build tool written in Rust |
 | [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | ⭐ 5.4k | PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books. |
-| [vercel/streamdown](https://github.com/vercel/streamdown) | ⭐ 5.0k | A drop-in replacement for react-markdown, designed for AI-powered streaming. |
+| [vercel/streamdown](https://github.com/vercel/streamdown) | ⭐ 5.1k | A drop-in replacement for react-markdown, designed for AI-powered streaming. |
 | [rajnandan1/kener](https://github.com/rajnandan1/kener) | ⭐ 4.9k | Stunning status pages, batteries included! |
-| [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) | ⭐ 4.8k | 🌍 All in one i18n extension for VS Code |
+| [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) | ⭐ 4.9k | 🌍 All in one i18n extension for VS Code |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information) | ⭐ 4.8k | 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节 |
 | [linhaojun857/aurora](https://github.com/linhaojun857/aurora) | ⭐ 4.6k | 基于SpringBoot+Vue开发的个人博客系统 |
 | [unovue/inspira-ui](https://github.com/unovue/inspira-ui) | ⭐ 4.6k | Build beautiful website using Vue & Nuxt. |
@@ -265,7 +266,7 @@
 | [Akryum/floating-vue](https://github.com/Akryum/floating-vue) | ⭐ 3.5k | 💬 Easy tooltips, popovers, dropdown, menus... for Vue |
 | [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) | ⭐ 3.4k | vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具 |
 | [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) | ⭐ 3.4k | ⚡️ WebExtension Vite Starter Template |
-| [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) | ⭐ 3.3k | 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。 |
+| [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) | ⭐ 3.4k | 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。 |
 | [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) | ⭐ 3.3k | Algorithms and data structures implemented in JavaScript, with detailed explanations and tutorials |
 | [ElementUI/element-starter](https://github.com/ElementUI/element-starter) | ⭐ 3.1k | A starter kit for Element UI generated by vue-cli |
 | [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) | ⭐ 3.1k | Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch. |
@@ -298,8 +299,8 @@
 | [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) | ⭐ 1.7k | Image compression in web browser |
 | [antfu/esno](https://github.com/antfu/esno) | ⭐ 1.6k | Alias to `tsx` |
 | [neovateai/neovate-code](https://github.com/neovateai/neovate-code) | ⭐ 1.5k | Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs, review code, add tests, and more. You can run it in interactive mode or headless mode. |
+| [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) | ⭐ 1.5k | tvbox 影视仓 ok影视 配置 |
 | [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) | ⭐ 1.4k | Another style of writing Vue components. |
-| [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) | ⭐ 1.4k | tvbox 影视仓 ok影视 配置 |
 | [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) | ⭐ 1.3k | chatGPT、prompt、LLM |
 | [wnr/element-resize-detector](https://github.com/wnr/element-resize-detector) | ⭐ 1.3k | Optimized cross-browser resize listener for elements. |
 | [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design) | ⭐ 1.3k | 本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。 |
@@ -313,60 +314,60 @@
 | [antfu/antfu.me](https://github.com/antfu/antfu.me) | ⭐ 1.0k | My personal website |
 | [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) | ⭐ 1.0k | "Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users. |
 | [vue-final/vue-final-modal](https://github.com/vue-final/vue-final-modal) | ⭐ 1.0k | 🍕Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
-| [antfu/changelogithub](https://github.com/antfu/changelogithub) | ⭐ 923 | Generate changelog for GitHub |
-| [antfu/starter-ts](https://github.com/antfu/starter-ts) | ⭐ 900 | Starter template for TypeScript library |
-| [antfu/utils](https://github.com/antfu/utils) | ⭐ 872 | Collection of common JavaScript / TypeScript utils |
-| [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) | ⭐ 840 | Vite plugin for developing Chrome/Web Extensions |
+| [antfu/changelogithub](https://github.com/antfu/changelogithub) | ⭐ 925 | Generate changelog for GitHub |
+| [antfu/starter-ts](https://github.com/antfu/starter-ts) | ⭐ 902 | Starter template for TypeScript library |
+| [antfu/utils](https://github.com/antfu/utils) | ⭐ 873 | Collection of common JavaScript / TypeScript utils |
+| [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) | ⭐ 839 | Vite plugin for developing Chrome/Web Extensions |
 | [kermanx/reactive-vscode](https://github.com/kermanx/reactive-vscode) | ⭐ 818 | Develop VSCode extension with Vue Reactivity API |
-| [SnowingFox/open-nof1.ai](https://github.com/SnowingFox/open-nof1.ai) | ⭐ 802 | A opensource AI trading platform in real market, |
-| [klover2/wechatpay-node-v3-ts](https://github.com/klover2/wechatpay-node-v3-ts) | ⭐ 769 | 微信支付v3 |
-| [jaaronkot/picprose](https://github.com/jaaronkot/picprose) | ⭐ 759 | Better cover image generator tool for Medium, Blog, Youtube, BiliBili and many others |
+| [SnowingFox/open-nof1.ai](https://github.com/SnowingFox/open-nof1.ai) | ⭐ 803 | A opensource AI trading platform in real market, |
+| [klover2/wechatpay-node-v3-ts](https://github.com/klover2/wechatpay-node-v3-ts) | ⭐ 770 | 微信支付v3 |
+| [jaaronkot/picprose](https://github.com/jaaronkot/picprose) | ⭐ 755 | Better cover image generator tool for Medium, Blog, Youtube, BiliBili and many others |
 | [sail-sail/ejsExcel](https://github.com/sail-sail/ejsExcel) | ⭐ 720 | nodejs excel template engine. node export excel |
 | [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) | ⭐ 713 | 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server |
-| [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) | ⭐ 702 | chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler, vapor, ssr, store, router, language tools). An online book for building your own Vue.js. |
+| [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) | ⭐ 704 | chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler, vapor, ssr, store, router, language tools). An online book for building your own Vue.js. |
 | [sakitam-fdd/wind-layer](https://github.com/sakitam-fdd/wind-layer) | ⭐ 693 | :flags: :rocket: wind-layer \| a openlayers && maptalks && amap && bmap && leaflet && mapbox-gl && maplibre-gl extension like windy.com for weather visualization |
-| [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) | ⭐ 687 | Some `react` login pages, which can be used quickly after installation. |
-| [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view) | ⭐ 682 | A Diff View component for React / Vue / Solid / Svelte / Ink, same as Github |
-| [BayBreezy/ui-thing](https://github.com/BayBreezy/ui-thing) | ⭐ 681 | A modern set of Nuxt components built with Reka UI & TailwindCSS. Inspired by shadcn/ui & shadcn-vue. |
+| [uiwjs/react-login-page](https://github.com/uiwjs/react-login-page) | ⭐ 689 | Some `react` login pages, which can be used quickly after installation. |
+| [MrWangJustToDo/git-diff-view](https://github.com/MrWangJustToDo/git-diff-view) | ⭐ 687 | A Diff View component for React / Vue / Solid / Svelte / Ink, same as Github |
+| [BayBreezy/ui-thing](https://github.com/BayBreezy/ui-thing) | ⭐ 680 | A modern set of Nuxt components built with Reka UI & TailwindCSS. Inspired by shadcn/ui & shadcn-vue. |
 | [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) | ⭐ 666 | [Work in Progress] An interactive tutorial and playground for Nuxt |
-| [espressif/esp-brookesia](https://github.com/espressif/esp-brookesia) | ⭐ 647 | ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices. |
+| [espressif/esp-brookesia](https://github.com/espressif/esp-brookesia) | ⭐ 662 | ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices. |
 | [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) | ⭐ 645 | Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4  |
 | [antfu-collective/birpc](https://github.com/antfu-collective/birpc) | ⭐ 564 | Message-based two-way remote procedure call. |
 | [cheeaun/puppetron](https://github.com/cheeaun/puppetron) | ⭐ 555 | Puppeteer (Headless Chrome Node API)-based rendering solution. |
 | [azl397985856/automate-everything](https://github.com/azl397985856/automate-everything) | ⭐ 549 | 这是我准备写的第一本书，其实早些时候已经打算开始写书了，只是苦于没有写书经验，无从下手。写书不同于博客，写书需要将知识，经验等系统化地讲述出来，而我现在恰巧缺乏这种表现能力。因此我决定在这里将项目中零散的东西记录下来，然后后期润色一下，写成一本书。 |
-| [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) | ⭐ 539 | 📚 GPT4o Prompts Dictionary \| Curated Collection of AI Image Generation Prompts |
-| [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | ⭐ 530 | Starter template for VS Code Extension |
-| [junian/markdown-resume](https://github.com/junian/markdown-resume) | ⭐ 512 | ATS and Human-friendly Resume Writer in Markdown. |
+| [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) | ⭐ 544 | 📚 GPT4o Prompts Dictionary \| Curated Collection of AI Image Generation Prompts |
+| [antfu/starter-vscode](https://github.com/antfu/starter-vscode) | ⭐ 532 | Starter template for VS Code Extension |
+| [junian/markdown-resume](https://github.com/junian/markdown-resume) | ⭐ 524 | ATS and Human-friendly Resume Writer in Markdown. |
 | [ddiu8081/bus-vis](https://github.com/ddiu8081/bus-vis) | ⭐ 487 | 🚌 City bus visualizations of China. |
 | [pansyjs/watermark](https://github.com/pansyjs/watermark) | ⭐ 401 | 🛡  强大的水印组件，助你快速的给网页添加水印。 |
-| [tam315/react-compare-image](https://github.com/tam315/react-compare-image) | ⭐ 399 | React component to compare two images with a slider |
-| [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) | ⭐ 342 | 兼容多端的高性能轮播组件库，支持多种复杂的 3D 轮播效果。 |
+| [tam315/react-compare-image](https://github.com/tam315/react-compare-image) | ⭐ 398 | React component to compare two images with a slider |
+| [zebra-ui/zebra-swiper](https://github.com/zebra-ui/zebra-swiper) | ⭐ 328 | 兼容多端的高性能轮播组件库，支持多种复杂的 3D 轮播效果。 |
 | [reslear/tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide) | ⭐ 310 | tailwindcss plugin for hide scrollbar |
 | [antfu/dotfiles](https://github.com/antfu/dotfiles) | ⭐ 287 | My dotfiles |
 | [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) | ⭐ 278 | 用规则驱动黑科技 \|\| 一个基于规则的前端路由拦截器 \|\| A simple, globally hijacked, easily customizable, Service Worker-based front-end worker |
-| [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) | ⭐ 270 | 一款基于 AI 的智能书签管理插件 |
-| [jaywcjlove/tools](https://github.com/jaywcjlove/tools) | ⭐ 270 | Many many useful Web Online Tools For Web Developers & Programmers |
-| [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) | ⭐ 262 | TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索，更快找到你想要的答案。支持 Chrome 和 Edge。 |
+| [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) | ⭐ 273 | 一款基于 AI 的智能书签管理插件 |
+| [jaywcjlove/tools](https://github.com/jaywcjlove/tools) | ⭐ 271 | Many many useful Web Online Tools For Web Developers & Programmers |
+| [Alanrk/TabMark-Bookmark-New-Tab](https://github.com/Alanrk/TabMark-Bookmark-New-Tab) | ⭐ 266 | TabMark是一款基于书签的新标签页插件，将你的收藏夹变成新标签页，让你收藏的书签一目了然、整洁高效，快速直达你最需要的网站和资源。搭配智能 AI 搜索，更快找到你想要的答案。支持 Chrome 和 Edge。 |
 | [open-dingtalk/dingtalk-pierced-client](https://github.com/open-dingtalk/dingtalk-pierced-client) | ⭐ 257 | 钉钉内网穿透客户端，鉴于很多开发者在临时体验开发时往往没有公网域名或者公网IP，本工具提供了一个公网代理服务，目的是方便开发测试，仅用于开发测试过程，不可用于线上生产环境。 |
 | [ElementUI/theme-chalk-preview](https://github.com/ElementUI/theme-chalk-preview) | ⭐ 219 | Preview and download custom theme-chalk. |
 | [huaize2020/awesome-frontend](https://github.com/huaize2020/awesome-frontend) | ⭐ 214 | 前端开发资源大全中文版。An awesome front end develop packages and resources |
 | [Bil369/MaskDetect-YOLOv4-PyTorch](https://github.com/Bil369/MaskDetect-YOLOv4-PyTorch) | ⭐ 212 | 基于PyTorch&YOLOv4实现的口罩佩戴检测  :star: 自建口罩数据集分享 |
 | [react-component/image](https://github.com/react-component/image) | ⭐ 211 | 🖼 React Image Component |
-| [antfu/vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) | ⭐ 210 | Custom files/globs to restart Vite server |
-| [antfu/magic-string-stack](https://github.com/antfu/magic-string-stack) | ⭐ 202 | magic-string with the capability of committing changes. |
-| [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) | ⭐ 200 | Create sketchy, hand-drawn-like images from SVGs |
+| [antfu/vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) | ⭐ 209 | Custom files/globs to restart Vite server |
+| [antfu/magic-string-stack](https://github.com/antfu/magic-string-stack) | ⭐ 203 | magic-string with the capability of committing changes. |
+| [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) | ⭐ 201 | Create sketchy, hand-drawn-like images from SVGs |
 | [blueswen/mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) | ⭐ 188 | A MkDocs plugin supports image lightbox (zoom effect) with GLightbox. |
-| [antfu/nip](https://github.com/antfu/nip) | ⭐ 168 |  |
+| [antfu/nip](https://github.com/antfu/nip) | ⭐ 169 |  |
 | [j2css/j2c](https://github.com/j2css/j2c) | ⭐ 166 | CSS in JS library, tiny yet featureful |
 | [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) | ⭐ 162 | exe一键快速唤醒PC版小爱同学 |
-| [vue-use-form/vue-use-form](https://github.com/vue-use-form/vue-use-form) | ⭐ 111 | Vue Composition API for validating form. |
+| [vue-use-form/vue-use-form](https://github.com/vue-use-form/vue-use-form) | ⭐ 110 | Vue Composition API for validating form. |
 | [cyhnkckali/vue3-color-picker](https://github.com/cyhnkckali/vue3-color-picker) | ⭐ 103 |  |
-| [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map) | ⭐ 98 | Anthony's Yak Shaving Map |
+| [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map) | ⭐ 99 | Anthony's Yak Shaving Map |
 | [lete114/WebStack-Screenshot](https://github.com/lete114/WebStack-Screenshot) | ⭐ 90 | 📸 Website Screenshot API  |
 | [jp-liu/fit-screen](https://github.com/jp-liu/fit-screen) | ⭐ 86 | Scale-based large-screen adaptive solution |
 | [Simon-He95/lazy-js-utils](https://github.com/Simon-He95/lazy-js-utils) | ⭐ 81 | 工具函数库 \| Tool library |
 | [antfu/everything](https://github.com/antfu/everything) | ⭐ 81 | Every (active) Packages Anthony Fu Created or Maintains |
-| [antfu/starter-monorepo](https://github.com/antfu/starter-monorepo) | ⭐ 69 |  |
+| [antfu/starter-monorepo](https://github.com/antfu/starter-monorepo) | ⭐ 68 |  |
 | [antfu/resume](https://github.com/antfu/resume) | ⭐ 65 | Résumé d'antfu |
 | [yuyinws/init-commit](https://github.com/yuyinws/init-commit) | ⭐ 54 | Find the initial commit of a repository. |
 | [thecodingmontana/nuxt-lucia-auth](https://github.com/thecodingmontana/nuxt-lucia-auth) | ⭐ 41 | This is a Nuxt.js project with authentication implemented using Lucia. |
@@ -375,7 +376,7 @@
 | [zyyv/unplugin-vue-image](https://github.com/zyyv/unplugin-vue-image) | ⭐ 38 | 自动引入图片。Auto import images. |
 | [AlbertZhaoz/tuling-gk](https://github.com/AlbertZhaoz/tuling-gk) | ⭐ 37 | 图灵工控一期课程配套代码，课程涵盖编程基本功+工业协议+Winform+Wpf+工业互联+智能化黑灯工厂项目（基于最新的 .NET8），毕业从小白到年薪 30-40 万，完全是自己走过的路，亲身实践。 |
 | [antfu-collective/structured-clone-es](https://github.com/antfu-collective/structured-clone-es) | ⭐ 34 | A redistribution of @ungap/structured-clone that ships Node.js compatible ESM. |
-| [liu-ziting/image-to-prompt](https://github.com/liu-ziting/image-to-prompt) | ⭐ 19 | Image To Prompt - 图片转AI提示词工具 |
+| [liu-ziting/image-to-prompt](https://github.com/liu-ziting/image-to-prompt) | ⭐ 20 | Image To Prompt - 图片转AI提示词工具 |
 | [NxResume/DualMode-ResumeEditor](https://github.com/NxResume/DualMode-ResumeEditor) | ⭐ 16 | 一个基于 Nuxt 3 & Vue 3 的现代化、功能丰富的简历编辑器，支持 Markdown/WYSIWYG 双模式、GitHub 登录、本地与云端双存储、主题切换、PDF/图片/ZIP 导出、PWA 离线、国际化等特性。A dual-mode resume editor built with Nuxt – supports both local editing and cloud-based (database) saving. |
 | [Daydreamer-riri/vscode-ext-packages](https://github.com/Daydreamer-riri/vscode-ext-packages) | ⭐ 16 | Helps JavaScript developers managing dependencies with package.json. |
 | [wowmarcomei/awesome-gpt4o-images-prompt-online](https://github.com/wowmarcomei/awesome-gpt4o-images-prompt-online) | ⭐ 13 |  |
