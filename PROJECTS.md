@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 5/25/2026, 3:39:01 AM。
+自动生成于 6/1/2026, 3:54:22 AM。
 
 
 ## Star History
@@ -9,8 +9,8 @@
 
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
-| [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 178 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 72 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
+| [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 177 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 73 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 18 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 14 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
@@ -50,6 +50,7 @@
 | [chat](https://github.com/ryanuo/chat) | ⭐ 0 |  |
 | [code-visualizer](https://github.com/ryanuo/code-visualizer) | ⭐ 0 |  |
 | [csharp-study](https://github.com/ryanuo/csharp-study) | ⭐ 0 |  |
+| [cstudy](https://github.com/ryanuo/cstudy) | ⭐ 0 |  |
 | [docs-crawler](https://github.com/ryanuo/docs-crawler) | ⭐ 0 | auto docs crawler |
 | [echart_shop](https://github.com/ryanuo/echart_shop) | ⭐ 0 | 商城数据可视化Vue2+e-chart |
 | [eslint-plugin-markdown-frontmatter](https://github.com/ryanuo/eslint-plugin-markdown-frontmatter) | ⭐ 0 | ESLint plugin to format and validate Markdown frontmatter using schema-driven rules |
