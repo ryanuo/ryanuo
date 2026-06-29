@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 6/22/2026, 4:03:24 AM。
+自动生成于 6/29/2026, 3:42:29 AM。
 
 
 ## Star History
@@ -10,7 +10,7 @@
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
 | [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 178 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 81 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 85 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。 |
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 18 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 14 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
@@ -23,7 +23,7 @@
 | [mts](https://github.com/ryanuo/mts) | ⭐ 2 | 网页多端带壳截图工具，基于nuxt4打造而成，个人自用 |
 | [own-cover](https://github.com/ryanuo/own-cover) | ⭐ 2 | "Own-Cover": Your Personal Blog Cover  |
 | [utils](https://github.com/ryanuo/utils) | ⭐ 2 |  Provide a variety of practical utility functions, covering multiple fields such as algorithms, browser operations, network requests, etc. |
-| [aug-calc](https://github.com/ryanuo/aug-calc) | ⭐ 1 | Gold Trades - 黄金交易记录分析工具 |
+| [aug](https://github.com/ryanuo/aug) | ⭐ 1 | Gold Trades - 黄金交易记录分析工具 |
 | [navs](https://github.com/ryanuo/navs) | ⭐ 1 | Summary of front-end navigation external links |
 | [ryanuo.github.io](https://github.com/ryanuo/ryanuo.github.io) | ⭐ 1 |  |
 | [screenshot](https://github.com/ryanuo/screenshot) | ⭐ 1 |  |
@@ -37,4 +37,5 @@
 | [image](https://github.com/ryanuo/image) | ⭐ 0 |  |
 | [N-Tab](https://github.com/ryanuo/N-Tab) | ⭐ 0 | N-Tab 是一个轻量级浏览器标签页扩展，主要功能包括时间显示、搜索建议、搜索引擎切换、快捷翻译、主题配置等。 |
 | [ryanuo](https://github.com/ryanuo/ryanuo) | ⭐ 0 |  |
+| [skills](https://github.com/ryanuo/skills) | ⭐ 0 |  |
 | [textcss](https://github.com/ryanuo/textcss) | ⭐ 0 |  |
