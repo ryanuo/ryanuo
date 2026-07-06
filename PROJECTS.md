@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 6/29/2026, 3:42:29 AM。
+自动生成于 7/6/2026, 3:21:34 AM。
 
 
 ## Star History
@@ -31,7 +31,6 @@
 | [tmpl-cli](https://github.com/ryanuo/tmpl-cli) | ⭐ 1 | Convenient project template management tool, quickly clone templates from Git repositories |
 | [userscripts](https://github.com/ryanuo/userscripts) | ⭐ 1 | A collection of userscripts for various purposes. |
 | [cstudy](https://github.com/ryanuo/cstudy) | ⭐ 0 |  |
-| [docs-crawler](https://github.com/ryanuo/docs-crawler) | ⭐ 0 | auto docs crawler |
 | [eslint-plugin-markdown-frontmatter](https://github.com/ryanuo/eslint-plugin-markdown-frontmatter) | ⭐ 0 | ESLint plugin to format and validate Markdown frontmatter using schema-driven rules |
 | [hexo-generator-search-wx](https://github.com/ryanuo/hexo-generator-search-wx) | ⭐ 0 | 基于hexo-generator-search本地搜索,用于微信小程序接口 |
 | [image](https://github.com/ryanuo/image) | ⭐ 0 |  |
