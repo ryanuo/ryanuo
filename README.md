@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                    20 hrs 57 mins        ████████████▓░░░░░░░░░░░░   50.77 %
-Markdown             7 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Other                4 hrs 27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-TypeScript           2 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-JavaScript           1 hr 21 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+C                    17 hrs 34 mins        ███████████▓░░░░░░░░░░░░░   46.02 %
+Markdown             7 hrs 18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+Other                5 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+TypeScript           2 hrs 47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+JavaScript           1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
