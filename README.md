@@ -16,11 +16,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
+- [grill-me vs Superpowers: A Full Comparison of Two Agent-Skill Paths](https://ryanuo.cc/posts/grill-me-vs-superpowers) - Jul 17, 2026
 - [AI Text Compression &amp; Summarization](https://ryanuo.cc/posts/ai-text) - Jun 28, 2026
 - [Reflections of an Ordinary Developer in the AI Wave](https://ryanuo.cc/posts/ai-dev-thoughts) - Jun 18, 2026
 - [Embedded Learning &lpar;Linux Module&rpar;](https://ryanuo.cc/posts/embedded) - Apr 21, 2026
-- [Build Your First MCP Server in TypeScript in 10 Minutes](https://ryanuo.cc/posts/mcp) - Jul 12, 2025
-- [Comprehensive Guide to GPT Interaction and Application Platform](https://ryanuo.cc/posts/gpt) - Apr 2, 2025<!-- BLOG-POST-LIST:END -->
+- [Build Your First MCP Server in TypeScript in 10 Minutes](https://ryanuo.cc/posts/mcp) - Jul 12, 2025<!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
 <!--START_SECTION:waka-->
