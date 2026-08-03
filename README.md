@@ -13,7 +13,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="200" src="https://fastly.jsdelivr.net/gh/ryanuo/image@master/2026/08/03/1785726941617-63afc41b-4511-4176-bbe7-61d08de6aa2e.png" />
 
 <!-- BLOG-POST-LIST:START -->
 - [grill-me vs Superpowers: A Full Comparison of Two Agent-Skill Paths](https://ryanuo.cc/posts/grill-me-vs-superpowers) - Jul 17, 2026
