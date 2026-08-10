@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 8/3/2026, 2:37:04 AM。
+自动生成于 8/10/2026, 1:38:18 AM。
 
 
 ## Star History
@@ -28,7 +28,7 @@
 | [screenshot](https://github.com/ryanuo/screenshot) | ⭐ 1 |  |
 | [status](https://github.com/ryanuo/status) | ⭐ 1 | This project is a status monitoring dashboard for Ryanuo's pages. It provides real-time status updates for various services and displays them in an easy-to-understand format. |
 | [userscripts](https://github.com/ryanuo/userscripts) | ⭐ 1 | A collection of userscripts for various purposes. |
-| [cpp-docs](https://github.com/ryanuo/cpp-docs) | ⭐ 0 | c++基础知识 |
+| [cpp-docs](https://github.com/ryanuo/cpp-docs) | ⭐ 0 | c++基础知识，包含c/c++库函数手册 |
 | [cstudy](https://github.com/ryanuo/cstudy) | ⭐ 0 |  |
 | [eslint-plugin-markdown-frontmatter](https://github.com/ryanuo/eslint-plugin-markdown-frontmatter) | ⭐ 0 | ESLint plugin to format and validate Markdown frontmatter using schema-driven rules |
 | [hexo-generator-search-wx](https://github.com/ryanuo/hexo-generator-search-wx) | ⭐ 0 | 基于hexo-generator-search本地搜索,用于微信小程序接口 |
