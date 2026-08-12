@@ -1,4 +1,4 @@
-# ryanuo 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1.svg?color=181717)](https://wakatime.com/@e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1) [![oubuild](https://img.shields.io/badge/View%20All%20Projects-000?style=flat-square&logo=github)](https://github.com/oubuild)
+# RYANUO 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1.svg?color=181717)](https://wakatime.com/@e3c8edd8-bf1a-4e5f-ab00-c91fc1cafbd1) [![oubuild](https://img.shields.io/badge/View%20All%20Projects-000?style=flat-square&logo=github)](https://github.com/oubuild)
 
 
 <p align="center">
