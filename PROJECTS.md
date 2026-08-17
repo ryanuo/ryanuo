@@ -1,6 +1,6 @@
 # ⭐ ryanuo 的项目列表
 
-自动生成于 8/10/2026, 1:38:18 AM。
+自动生成于 8/17/2026, 1:07:16 AM。
 
 
 ## Star History
@@ -10,7 +10,7 @@
 | 项目 | Star | 描述 |
 | ---- | ---- | ---- |
 | [blazeB2](https://github.com/ryanuo/blazeB2) | ⭐ 178 | 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare |
-| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 91 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。A decision tool for "What to eat today?" to help you quickly choose the right recipe. |
+| [whatToEat](https://github.com/ryanuo/whatToEat) | ⭐ 94 | 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。A decision tool for "What to eat today?" to help you quickly choose the right recipe. |
 | [hexo-wx-api](https://github.com/ryanuo/hexo-wx-api) | ⭐ 18 | A WeChat applet based on the hexo framework |
 | [markdown-it-diagram](https://github.com/ryanuo/markdown-it-diagram) | ⭐ 14 | markdown-it-diagram is a markdown-it plugin for diagram. It supports mermaid, plantuml. It supports contorls like zoom, move. |
 | [ryanuo.cc](https://github.com/ryanuo/ryanuo.cc) | ⭐ 11 | 🐲Personal Homepage (Introduction, Navigation, Blog, Projects).Refer Antfu Template |
@@ -29,11 +29,13 @@
 | [status](https://github.com/ryanuo/status) | ⭐ 1 | This project is a status monitoring dashboard for Ryanuo's pages. It provides real-time status updates for various services and displays them in an easy-to-understand format. |
 | [userscripts](https://github.com/ryanuo/userscripts) | ⭐ 1 | A collection of userscripts for various purposes. |
 | [cpp-docs](https://github.com/ryanuo/cpp-docs) | ⭐ 0 | c++基础知识，包含c/c++库函数手册 |
+| [cpp-wzq](https://github.com/ryanuo/cpp-wzq) | ⭐ 0 | 基于c++ 的联机对战五子棋支持mac、windows、linux |
+| [cppChatbox](https://github.com/ryanuo/cppChatbox) | ⭐ 0 |  |
 | [cstudy](https://github.com/ryanuo/cstudy) | ⭐ 0 |  |
 | [eslint-plugin-markdown-frontmatter](https://github.com/ryanuo/eslint-plugin-markdown-frontmatter) | ⭐ 0 | ESLint plugin to format and validate Markdown frontmatter using schema-driven rules |
 | [hexo-generator-search-wx](https://github.com/ryanuo/hexo-generator-search-wx) | ⭐ 0 | 基于hexo-generator-search本地搜索,用于微信小程序接口 |
 | [image](https://github.com/ryanuo/image) | ⭐ 0 |  |
 | [N-Tab](https://github.com/ryanuo/N-Tab) | ⭐ 0 | N-Tab 是一个轻量级浏览器标签页扩展，主要功能包括时间显示、搜索建议、搜索引擎切换、快捷翻译、主题配置等。 |
 | [ryanuo](https://github.com/ryanuo/ryanuo) | ⭐ 0 |  |
-| [skills](https://github.com/ryanuo/skills) | ⭐ 0 |  |
+| [skills](https://github.com/ryanuo/skills) | ⭐ 0 | 个人自用SKILLS，持续完善中 |
 | [textcss](https://github.com/ryanuo/textcss) | ⭐ 0 |  |
