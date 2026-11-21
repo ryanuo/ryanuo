@@ -14,7 +14,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 
-<img align="right" width="200" src="https://fastly.jsdelivr.net/gh/ryanuo/image@master/2026/08/16/1786868335220-5714cee3-196d-4095-955b-d2af3875787e.jpeg" />
+<img align="right" width="200" src="https://github.com/user-attachments/assets/b5e40b27-f155-4e3b-a84a-5486768a6036" />
 
 <!-- BLOG-POST-LIST:START -->
 - [grill-me vs Superpowers: A Full Comparison of Two Agent-Skill Paths](https://ryanuo.cc/posts/grill-me-vs-superpowers) - Jul 17, 2026
@@ -24,6 +24,7 @@
 - [Build Your First MCP Server in TypeScript in 10 Minutes](https://ryanuo.cc/posts/mcp) - Jul 12, 2025<!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -35,6 +36,3 @@ JavaScript           23 mins               ██░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- <p align="right"><img src="https://views.whatilearened.today/views/github/Rr210/Rr210.svg?cache=remove"/></p>
- -->
